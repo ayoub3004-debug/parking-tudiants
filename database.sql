@@ -59,7 +59,6 @@ INSERT INTO parkings (nom, adresse, latitude, longitude, nb_places, gratuit, tar
 
 ('Parking POLYTECH Orléans', 'Rue d''Issoudun, 45100 Orléans', 47.82600, 1.91500, 80, 1, 'Gratuit', 0, 1, 'Parking gratuit devant POLYTECH Orléans. Quelques places disponibles pour les étudiants de l''école d''ingénieurs.', 'Admin', 1),
 
--- PEU CHERS (parkings en ouvrage à tarif réduit soirée)
 ('Parking Carmes (soirée 3€)', 'Place des Carmes, 45000 Orléans', 47.90150, 1.90800, 350, 0, '3€ de 18h à 5h / 10€ forfait journée', 1, 0, 'Parking en ouvrage en plein centre-ville. Tarif soirée très avantageux à 3€ de 18h à 5h du matin. Idéal pour les étudiants qui sortent le soir.', 'Admin', 1),
 
 ('Parking Cathédrale (soirée 3€)', 'Place Sainte-Croix, 45000 Orléans', 47.90230, 1.91050, 280, 0, '3€ de 18h à 5h / 10€ forfait journée', 1, 0, 'Parking souterrain sous la place de la cathédrale. Tarif soirée à 3€. Très bien situé pour les étudiants en stage ou en cours en centre-ville.', 'Admin', 1),
