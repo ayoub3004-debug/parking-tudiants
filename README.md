@@ -1,6 +1,6 @@
 # 🅿️ ParkEtudiant Orléans
 
-Application web permettant aux étudiants d'Orléans de trouver des places de parking gratuites, de signaler leur disponibilité et de laisser des avis.
+Application web permettant aux étudiants d'Orléans de trouver des places de parking gratuites ou peu chere, de signaler leur disponibilité et de laisser des avis.
 
 ## Fonctionnalités
 
